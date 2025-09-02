@@ -1,4 +1,4 @@
-let random = Math.ceil(Math.random() * 10);
+let random = Math.ceil(Math.random() * 50);
 let input = document.getElementById("input");
 let result = document.getElementById("result");
 let score = document.getElementById("score");
